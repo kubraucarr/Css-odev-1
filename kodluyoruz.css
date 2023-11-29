@@ -1,0 +1,28 @@
+body {
+    background-color:aliceblue;
+}
+
+h1{
+    text-align: center;
+}
+
+.ortayazı{
+
+    text-align: center;
+}
+    
+
+#yazı{
+    color: darkslategray;
+
+    text-align: center;
+}
+
+h2{
+    font-size: medium;
+    color: midnightblue;
+}
+
+div{
+    text-align: center;
+}
